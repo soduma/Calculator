@@ -13,6 +13,7 @@
 		A0B0B905273CE7B0000D597D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0B0B903273CE7B0000D597D /* Main.storyboard */; };
 		A0B0B907273CE7B2000D597D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0B0B906273CE7B2000D597D /* Assets.xcassets */; };
 		A0B0B90A273CE7B2000D597D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0B0B908273CE7B2000D597D /* LaunchScreen.storyboard */; };
+		A0D5544E273D09BE0033D11D /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0D5544D273D09BD0033D11D /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A0B0B906273CE7B2000D597D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0B0B909273CE7B2000D597D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0B0B90B273CE7B2000D597D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0D5544D273D09BD0033D11D /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A0B0B8FF273CE7B0000D597D /* SceneDelegate.swift */,
 				A0B0B901273CE7B0000D597D /* ViewController.swift */,
 				A0B0B903273CE7B0000D597D /* Main.storyboard */,
+				A0D5544D273D09BD0033D11D /* RoundButton.swift */,
 				A0B0B906273CE7B2000D597D /* Assets.xcassets */,
 				A0B0B908273CE7B2000D597D /* LaunchScreen.storyboard */,
 				A0B0B90B273CE7B2000D597D /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0D5544E273D09BE0033D11D /* RoundButton.swift in Sources */,
 				A0B0B902273CE7B0000D597D /* ViewController.swift in Sources */,
 				A0B0B8FE273CE7B0000D597D /* AppDelegate.swift in Sources */,
 				A0B0B900273CE7B0000D597D /* SceneDelegate.swift in Sources */,
